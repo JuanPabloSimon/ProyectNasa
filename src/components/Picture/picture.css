@@ -1,0 +1,7 @@
+.picture {
+  margin: 2em 0;
+}
+
+figure img {
+  max-width: 400px;
+}

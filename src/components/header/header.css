@@ -1,0 +1,22 @@
+#header {
+  height: 40vh;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#header div {
+  display: flex;
+  align-items: center;
+}
+
+#title {
+  color: #fff;
+  font-size: 5em;
+  font-family: "Bebas Neue", cursive;
+}
+
+#logoMars {
+  max-width: 200px;
+}
