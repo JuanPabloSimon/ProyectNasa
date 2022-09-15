@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ProyectNasa/static/css/main.39676b2f.css",
+    "main.js": "/ProyectNasa/static/js/main.2ff91a87.js",
+    "static/media/mars.jpg": "/ProyectNasa/static/media/mars.421ad257d723b9ac3c26.jpg",
+    "static/media/logoNameWhite.png": "/ProyectNasa/static/media/logoNameWhite.b18a4dd552e6972bf5df.png",
+    "index.html": "/ProyectNasa/index.html",
+    "main.39676b2f.css.map": "/ProyectNasa/static/css/main.39676b2f.css.map",
+    "main.2ff91a87.js.map": "/ProyectNasa/static/js/main.2ff91a87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39676b2f.css",
+    "static/js/main.2ff91a87.js"
+  ]
+}
